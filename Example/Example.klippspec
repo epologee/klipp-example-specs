@@ -1,5 +1,4 @@
-Template::Spec.new do |s|
-  s.name = 'Example'
+spec 'Example' do |s|
   s.post_action = 'pod install'
 
   s.token :PROJECT_TITLE do |t|
@@ -31,5 +30,4 @@ Template::Spec.new do |s|
     t.validation = /^[A-Z][A-Z0-9]{2,}$/
     t.validation_hint = 'All caps, at least three, starting with an alphabetical character'
   end
-  
 end
