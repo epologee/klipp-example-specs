@@ -29,7 +29,7 @@
 			containerPortal = 95DEE3D817DBCFEA00FA04CC /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 95DEE3DF17DBCFEA00FA04CC;
-			remoteInfo = XXPROJECT_TITLEXX;
+			remoteInfo = XXPROJECT_IDXX;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -185,7 +185,7 @@
 			dependencies = (
 			);
 			name = XXPROJECT_IDXX;
-			productName = XXPROJECT_TITLEXX;
+			productName = XXPROJECT_IDXX;
 			productReference = 95DEE3E017DBCFEA00FA04CC /* XXPROJECT_IDXX.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -204,7 +204,7 @@
 				95DEE40617DBCFEB00FA04CC /* PBXTargetDependency */,
 			);
 			name = XXPROJECT_IDXXTests;
-			productName = XXPROJECT_TITLEXXTests;
+			productName = XXPROJECT_IDXXTests;
 			productReference = 95DEE40017DBCFEB00FA04CC /* XXPROJECT_IDXXTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
@@ -406,7 +406,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XXPROJECT_IDXX/XXPROJECT_IDXX-Prefix.pch";
-				INFOPLIST_FILE = "XXPROJECT_TITLEXX/XXPROJECT_IDXX-Info.plist";
+				INFOPLIST_FILE = "XXPROJECT_IDXX/XXPROJECT_IDXX-Info.plist";
 				PRODUCT_NAME = XXPROJECT_IDXXTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
@@ -423,7 +423,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XXPROJECT_IDXX/XXPROJECT_IDXX-Prefix.pch";
-				INFOPLIST_FILE = "XXPROJECT_TITLEXX/XXPROJECT_IDXX-Info.plist";
+				INFOPLIST_FILE = "XXPROJECT_IDXX/XXPROJECT_IDXX-Info.plist";
 				PRODUCT_NAME = XXPROJECT_IDXXTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;

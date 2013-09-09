@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>B3268006-6845-48D0-B2E3-718BF24F6361</string>
 	<key>IDESourceControlProjectName</key>
-	<string>XXPROJECT_TITLEXX</string>
+	<string>XXPROJECT_IDXX</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>B71964CE-49AC-4666-A443-58FFA51FA749</key>
 		<string>ssh://github.com/epologee/klipp-example-specs.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Example/XXPROJECT_TITLEXX.xcodeproj/project.xcworkspace</string>
+	<string>Example/XXPROJECT_IDXX.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B71964CE-49AC-4666-A443-58FFA51FA749</key>
