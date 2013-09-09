@@ -7,10 +7,10 @@
 #import <SenTestingKit/SenTestingKit.h>
 #import "XXCLASS_PREFIXXXRootViewController.h"
 
-@interface XXPROJECT_TITLEXXTests : SenTestCase
+@interface XXPROJECT_IDXXTests : SenTestCase
 @end
 
-@implementation XXPROJECT_TITLEXXTests
+@implementation XXPROJECT_IDXXTests
 
 - (void)testExample
 {

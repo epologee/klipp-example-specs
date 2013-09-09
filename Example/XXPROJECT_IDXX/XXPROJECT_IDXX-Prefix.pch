@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'XXPROJECT_TITLEXX' target in the 'XXPROJECT_TITLEXX' project
+// Prefix header for all source files of the 'XXPROJECT_IDXX' target in the 'XXPROJECT_TITLEXX' project
 //
 
 #import <Availability.h>
