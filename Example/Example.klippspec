@@ -1,5 +1,7 @@
 spec 'Example' do |s|
-  s.post_action = 'pod install'
+  s.block_actions_under_git = true
+  s.pre_actions = ['git init', 'git add .', 'git commit -m "Initial commit."']
+  s.post_actions = ['git add .', 'git commit -m "Klipp project"', 'pod install', 'git add .', 'git commit -m "Installed cocoapods"']
 
   s.token :PROJECT_TITLE do |t|
     t.comment = "Project title (e.g. 'Amazing Application')"
